@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode
 
+Kim.jpg
+a.jpeg
+
 ### macOS ###
 # General
 .DS_Store

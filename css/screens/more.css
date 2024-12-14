@@ -1,0 +1,34 @@
+.more-screen .icon-row{
+    margin-top: 35px;
+}
+.more-suggestions{
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 40px;
+}
+.more-suggestions__title{
+    margin-bottom: 30px;
+}
+.more-suggestions__icons{   /*suggestion 어플 전체 배열*/
+    display: flex;
+}
+.more-suggestions__icon{    /*suggestion 어플 하나 디자인 (어플 그림 및에 이름 들어가도록)*/
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.more-suggestions__icon-image{
+    width: 60px;
+    height: 60px;
+    background-color: var(--yellow);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.more-suggestions__icon-image i{
+    font-size: 32px;
+    color: white;
+}
