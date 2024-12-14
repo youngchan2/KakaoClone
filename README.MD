@@ -1,2 +1,4 @@
-10.Status Bar part One부터 시작
-[링크](https://github.com/nomadcoders/kokoa-clone-2020/commits/master/?before=589ac67550811746f3324e15d5a6cd353cd0fcce+35)
+# 카카오톡 화면 클론 코딩  
+- 애니메이션 재확인 필요  
+- 화면 크기 넘어가는 경우 스크롤 확인 (chat.html은 되지만 나머지는 안됨)  
+- Input 들어오면 chat 화면에 올라오는 기능 추가해보기  
